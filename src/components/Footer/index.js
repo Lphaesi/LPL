@@ -5,8 +5,7 @@ function Footer() {
   return (
     <FooterBase>
       <p>
-        Vaposamente criado durante
-        {' '}
+        Criado durante { ' ' }
         <a href="https://www.alura.com.br/">
           Imersão React da Alura
         </a>
